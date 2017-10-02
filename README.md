@@ -1,4 +1,2 @@
-# S-Box-Core-XY
-Impresora 3D S-Box Core XY
-
-
+# S-Box
+CoreXY 3D Printer
