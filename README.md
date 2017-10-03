@@ -19,10 +19,11 @@
 * Bowden extruder for 1.75mm filament
 ![S-BOX](https://raw.githubusercontent.com/FabLabCordoba/S-Box-Core-XY/develop/resources/3D_Renders/extruder.png)
 
----
-![S-BOX](https://raw.githubusercontent.com/FabLabCordoba/S-Box-Core-XY/develop/resources/3D_Renders/bed.png)
 
 ### Contributors
 * Alejandro Iovane [[@aleiovanevcp](https://github.com/aleiovanevcp)] - Creator
 * Alejandro Daniel Cragnolini [[@alejandrocragnolini](https://github.com/alejandrocragnolini)] - Documentation
 * Karim Kfoure [[@karimkfoure](https://github.com/karimkfoure)] - Documentation
+
+---
+![S-BOX](https://raw.githubusercontent.com/FabLabCordoba/S-Box-Core-XY/develop/resources/3D_Renders/front.png)
