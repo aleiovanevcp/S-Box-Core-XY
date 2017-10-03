@@ -1,5 +1,4 @@
-# S-BOX
-### CoreXY 3D Printer
+# S-BOX CoreXY 3D Printer
 
 ![S-BOX](https://raw.githubusercontent.com/FabLabCordoba/S-Box-Core-XY/develop/resources/3D_Renders/isometric.png)
 
