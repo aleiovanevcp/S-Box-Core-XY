@@ -20,17 +20,16 @@
 ![S-BOX](https://raw.githubusercontent.com/FabLabCordoba/S-Box-Core-XY/develop/resources/3D_Renders/extruder.png)
 
 
-The respository has these sub directories:
+### Subdirectories
 
-    stl/ contains the STL files needed to build the printer
-    doc/ contains documentation, images, bom, etc.
-    scad/ contains the design files of those parts for which OpenSCAD was used.
-    sketchup/ contains the design files of those parts for which SketchUp was used.
+* Doc/ contains documentation, images, bom, etc.
+* STL/ contains the 3D printed models.
+* DXF/ contains the drawings needed to laser-cut the frame.
 
 
 ### Links
-* usuarios [[http://forums.reprap.org/read.php?276,563440](http://forums.reprap.org/read.php?276,563440)]
-* usuarios [[http://forums.reprap.org/read.php?276,563440](http://forums.reprap.org/read.php?276,563440)]
+* Original RepRap forum thread: [[http://forums.reprap.org/read.php?276,533476](http://forums.reprap.org/read.php?276,533476)]
+* RepRap Argentina Users Build/Troubleshoot thread: [[http://forums.reprap.org/read.php?276,563440](http://forums.reprap.org/read.php?276,563440)]
 
 
 ### Credits
