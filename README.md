@@ -28,7 +28,7 @@
 
 ### Links
 * Original RepRap forum thread: [[http://forums.reprap.org/read.php?276,533476](http://forums.reprap.org/read.php?276,533476)]
-* RepRap Argentina Users Build/Troubleshoot thread: [[http://forums.reprap.org/read.php?276,563440](http://forums.reprap.org/read.php?276,563440)]
+* RepRap Argentina users build/troubleshooting thread: [[http://forums.reprap.org/read.php?276,563440](http://forums.reprap.org/read.php?276,563440)]
 
 
 ### Credits

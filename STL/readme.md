@@ -1,4 +1,4 @@
-### The original STL files for the S-BOX 3D Printer.
+### Original STL files for the S-BOX 3D Printer.
 
 ---
 
