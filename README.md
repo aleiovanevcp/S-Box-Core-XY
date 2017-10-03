@@ -1,6 +1,6 @@
-# S-BOX CoreXY 3D Printer
+# S-BOX: CoreXY 3D Printer
 
-![S-BOX](https://raw.githubusercontent.com/FabLabCordoba/S-Box-Core-XY/develop/resources/3D_Renders/isometric.png)
+![S-BOX](https://raw.githubusercontent.com/FabLabCordoba/S-Box-Core-XY/original/Doc/3D_Renders/isometric.png)
 
 
 ### Specifications
@@ -10,20 +10,20 @@
 * ABS-friendly machine, enclosed with acrylic door and side windows
 * Integrated spool holder
 * RAMPS 1.4 ready
-![S-BOX](https://raw.githubusercontent.com/FabLabCordoba/S-Box-Core-XY/develop/resources/3D_Renders/back.png)
-* Print volume: 20 cm x 20cm x ? cm  
-![S-BOX](https://raw.githubusercontent.com/FabLabCordoba/S-Box-Core-XY/develop/resources/3D_Renders/bed.png)
+![S-BOX](https://raw.githubusercontent.com/FabLabCordoba/S-Box-Core-XY/original/Doc/3D_Renders/back.png)
+* Print volume: 20 cm x 20 cm x ? cm  
+![S-BOX](https://raw.githubusercontent.com/FabLabCordoba/S-Box-Core-XY/original/Doc/3D_Renders/bed.png)
 * CoreXY system
-![S-BOX](https://raw.githubusercontent.com/FabLabCordoba/S-Box-Core-XY/develop/resources/3D_Renders/coreXY.png)
-* Bowden extruder for 1.75mm filament
-![S-BOX](https://raw.githubusercontent.com/FabLabCordoba/S-Box-Core-XY/develop/resources/3D_Renders/extruder.png)
+![S-BOX](https://raw.githubusercontent.com/FabLabCordoba/S-Box-Core-XY/original/Doc/3D_Renders/coreXY.png)
+* Bowden extruder for 1.75 mm filament
+![S-BOX](https://raw.githubusercontent.com/FabLabCordoba/S-Box-Core-XY/original/Doc/3D_Renders/extruder.png)
 
 
 ### Subdirectories
 
-* Doc/ contains documentation, images, bom, etc.
-* STL/ contains the 3D printed models.
-* DXF/ contains the drawings needed to laser-cut the frame.
+* Doc/ contains documentation, images, BOM, etc.
+* STL/ contains the 3D printed models
+* DXF/ contains the drawings needed to laser-cut the frame
 
 
 ### Links
@@ -37,4 +37,4 @@
 * Karim Kfoure [[@karimkfoure](https://github.com/karimkfoure)] - Documentation
 
 ---
-![S-BOX](https://raw.githubusercontent.com/FabLabCordoba/S-Box-Core-XY/develop/resources/3D_Renders/front.png)
+![S-BOX](https://raw.githubusercontent.com/FabLabCordoba/S-Box-Core-XY/original/Doc/3D_Renders/front.png)
